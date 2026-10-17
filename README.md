@@ -29,7 +29,8 @@ Rizki Nugraha
 ## Git log
 
 ```text
-*   13c6631 (HEAD -> main) merge: tebak jelaskan
+* 6120d72 (HEAD -> main) docs: memperbarui dokumentasi
+*   13c6631 merge: tebak jelaskan
 |\  
 | * 011f532 (docs/tebak-jelaskan) docs: menjelaskan hasil eksperimen
 | * 77db2a8 docs: menambah tebakan dan eksperimen
