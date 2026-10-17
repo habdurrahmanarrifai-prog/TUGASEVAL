@@ -24,12 +24,13 @@ Proyek ini berisi simulasi sistem kasir, pembersihan data transaksi, latihan log
 
 ## Nama penulis
 
-Rizki Nugraha
+Hanif Abdurrahman Arrifa'i
 
 ## Git log
 
 ```text
-* 6120d72 (HEAD -> main) docs: memperbarui dokumentasi
+* ad7855d (HEAD -> main) docs: menyesuaikan log
+* 6120d72 docs: memperbarui dokumentasi
 *   13c6631 merge: tebak jelaskan
 |\  
 | * 011f532 (docs/tebak-jelaskan) docs: menjelaskan hasil eksperimen
